@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV\\GoSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|d:\\dev\\gosys\\gosys\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\dadosdaconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\dadosdaconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmgeradorbarras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmgeradorbarras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmlogar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmlogar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmvenda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmvenda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|D:\\DEV\\GoSys\\gosys\\frmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A42C64C0-19A7-4F04-BF86-551820469DD5}|GoSys\\GoSys.csproj|solutionrelative:gosys\\frmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Validacao.cs",
+              "RelativeDocumentMoniker": "GoSys\\Validacao.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Validacao.cs",
+              "RelativeToolTip": "GoSys\\Validacao.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:25:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Usuarios.cs",
+              "RelativeDocumentMoniker": "GoSys\\Usuarios.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Usuarios.cs",
+              "RelativeToolTip": "GoSys\\Usuarios.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:25:46.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Program.cs",
+              "RelativeDocumentMoniker": "GoSys\\Program.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Program.cs",
+              "RelativeToolTip": "GoSys\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:37.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Envio.cs",
+              "RelativeDocumentMoniker": "GoSys\\Envio.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Envio.cs",
+              "RelativeToolTip": "GoSys\\Envio.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DadosdaConexao.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\DadosdaConexao.cs",
+              "RelativeDocumentMoniker": "GoSys\\DadosdaConexao.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\DadosdaConexao.cs",
+              "RelativeToolTip": "GoSys\\DadosdaConexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:27.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Clientes.cs",
+              "RelativeDocumentMoniker": "GoSys\\Clientes.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Clientes.cs",
+              "RelativeToolTip": "GoSys\\Clientes.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:20.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmGeradorBarras.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmGeradorBarras.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmGeradorBarras.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmGeradorBarras.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmGeradorBarras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:13.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "GoSys\\Fornecedor.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Fornecedor.cs",
+              "RelativeToolTip": "GoSys\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:32.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Produto.cs",
+              "RelativeDocumentMoniker": "GoSys\\Produto.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Produto.cs",
+              "RelativeToolTip": "GoSys\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:23:36.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSobre.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmSobre.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmSobre.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmSobre.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmSobre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:20:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\App.config",
+              "RelativeDocumentMoniker": "GoSys\\App.config",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\App.config",
+              "RelativeToolTip": "GoSys\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-17T01:23:46.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmVenda2.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmVenda2.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmVenda2.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmVenda2.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmVenda2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:41.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmVenda.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmVenda.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmVenda.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmVenda.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:38.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\Banco.cs",
+              "RelativeDocumentMoniker": "GoSys\\Banco.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\Banco.cs",
+              "RelativeToolTip": "GoSys\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:19:06.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmCadastroUsuario.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmCadastroUsuario.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmCadastroUsuario.cs",
+              "ToolTip": "D:\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmCadastroUsuario.cs [Design]",
+              "RelativeToolTip": "..\\..\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmCadastroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:31.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmSplash.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmSplash.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmSplash.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:20:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogar.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmLogar.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmLogar.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmLogar.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmLogar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:21:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmBackup.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmBackup.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmBackup.cs",
+              "ToolTip": "D:\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmBackup.cs [Design]",
+              "RelativeToolTip": "..\\..\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmBackup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:30.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmPrincipal.cs",
+              "ToolTip": "D:\\DEV\\GoSys\\GoSys\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "GoSys\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:13.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmEmail.cs [Design]",
+              "DocumentMoniker": "D:\\DEV\\GoSys\\GoSys\\frmEmail.cs",
+              "RelativeDocumentMoniker": "GoSys\\frmEmail.cs",
+              "ToolTip": "D:\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmEmail.cs [Design]",
+              "RelativeToolTip": "..\\..\\AULAS\\SENAC PROGRAMA\u00C7\u00C3O 2018\\Sistemas 2k17\\GoSys 3.0.18 FINAL\\GoSys\\GoSys\\frmEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:00:27.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

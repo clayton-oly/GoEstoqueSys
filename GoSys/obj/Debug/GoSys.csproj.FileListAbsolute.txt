@@ -1,0 +1,797 @@
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\bin\Debug\GoSys.exe.config
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\bin\Debug\GoSys.exe
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\bin\Debug\GoSys.pdb
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.exe
+c:\users\kurpsaki\documents\visual studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\kurpsaki\Documents\Visual Studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\kurpsaki\Documents\Visual Studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\kurpsaki\Documents\Visual Studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.Cadastros.frmClientes.resources
+C:\Users\kurpsaki\Documents\Visual Studio 2015\Projects\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.Cadastros.frmClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.Form1.resources
+C:\Users\clayton.worocha\Desktop\GoSys 2.0\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Form1.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\kurpsaki\Downloads\Projeto 17-08\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Bjergsen\Downloads\Projeto 17-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\Projeto 21-08\GoSys 3.0\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Downloads\GoSys 3.0.1\GoSys 3.0.1\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.2\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Bjergsen\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.3\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.login2.resources
+C:\Users\Soren\Desktop\GoSys 3.0.4\GoSys\GoSys\obj\Debug\GoSys.usuario2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.login2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.usuario2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.login2.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.usuario2.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.login2.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.usuario2.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.5\GoSys\GoSys\obj\Debug\GoSys.frmConfig.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmConfig.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.frmUsuarios.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.login2.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.usuario2.resources
+C:\Users\clayton.worocha\Desktop\Projeto GO Version\GoSys 3.0.6\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmConfig.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmFornecedor.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.7\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.8\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.9\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.Splash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.10\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmProduto.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\Soren\Desktop\GoSys 3.0.11\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.Venda.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.Form2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.12\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.Form2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.Venda.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.Form2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.Venda.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.13 - BACKUP\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.Form2.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.Venda.resources
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\Soren\Desktop\Projeto GO Version\GoSys 3.0.14\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.Form2.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmLogin.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\RdlCompile.cache
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\RdlCompile.compiled
+C:\Users\clayton.worocha\Desktop\GoSys 3.0.15\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.16\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmLoginAdmin.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\clayton.worocha\Desktop\Drive\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmRelatorioscs.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\Soren\Desktop\GoSys 3.0.17\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Downloads\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csprojResolveAssemblyReference.cache
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.Cache
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\clayton.worocha\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.pdb
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe.config
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.pdb
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csprojAssemblyReference.cache
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.cache
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CopyComplete
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.exe
+C:\Users\jukes\Desktop\CURSO\SENAC PROGRAMAÇÃO 2K18\SENAC PROGRAMAÇÃO 2K18\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.pdb
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe.config
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.exe
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\GoSys.pdb
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csprojAssemblyReference.cache
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.cache
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.csproj.CopyComplete
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.exe
+D:\AULAS\SENAC PROGRAMAÇÃO 2018\Sistemas 2k17\GoSys 3.0.18 FINAL\GoSys\GoSys\obj\Debug\GoSys.pdb
+D:\DEV\GoSys\GoSys\bin\Debug\GoSys.exe.config
+D:\DEV\GoSys\GoSys\bin\Debug\GoSys.exe
+D:\DEV\GoSys\GoSys\bin\Debug\GoSys.pdb
+D:\DEV\GoSys\GoSys\bin\Debug\BarcodeLib.dll
+D:\DEV\GoSys\GoSys\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\DEV\GoSys\GoSys\bin\Debug\pt-BR\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.csproj.AssemblyReference.cache
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmBackup.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmCadastroClientes.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmCadastroFornecedor.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmConsultaClientes.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmEmail.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmGeradorBarras.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmLogar.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmPrincipal.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmCadastroProduto.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmSobre.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmVenda2.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.Properties.Resources.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmSplash.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmCadastroUsuario.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.frmVenda.resources
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.csproj.GenerateResource.cache
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.csproj.CoreCompileInputs.cache
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.csproj.Up2Date
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.exe
+D:\DEV\GoSys\GoSys\obj\Debug\GoSys.pdb
